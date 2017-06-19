@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zutil\\": "src/zUtils"
+            "Zutils\\": "src/zUtils"
         }
     }
 }

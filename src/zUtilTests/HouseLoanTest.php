@@ -1,6 +1,8 @@
 <?php
 
-require_once('../zUtils/HouseLoan.php');
+//require_once('../zUtils/HouseLoan.php');
+
+require('../../vendor/autoload.php');
 
 use Zutils\HouseLoan;
 
