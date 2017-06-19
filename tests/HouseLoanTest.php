@@ -2,7 +2,7 @@
 
 //require_once('../zUtils/HouseLoan.php');
 
-require('../../vendor/autoload.php');
+require('../vendor/autoload.php');
 
 use Zutils\HouseLoan;
 
